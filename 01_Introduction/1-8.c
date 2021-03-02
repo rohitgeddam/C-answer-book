@@ -19,7 +19,6 @@ int main(){
             blanks++;
         }
     }
-    
     printf("\nTabs: %d\nNewlines: %d\nBlanks: %d",tabs, newlines, blanks);
     return 0;
 }
